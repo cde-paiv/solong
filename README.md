@@ -2,7 +2,7 @@
 so_long is a 2D game where the player controls a character with the goal of collecting all items scattered across a predefined map and escaping via the shortest possible route. The game simulates a maze-like environment, requiring strategic decisions from the player while navigating the available paths.
 
 <div align="center" max-width="auto" max-height="auto">
-	<img src="IMG_9918.png" max-height="250" alight="center">
+	<img src="IMG_9918.jpg" max-height="250" alight="center">
 </div>
 
 ## Features
